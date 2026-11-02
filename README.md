@@ -40,8 +40,14 @@ s.close()
 ```
 ## OUPUT
 ***Server output***
+
+
 <img width="656" height="255" alt="image" src="https://github.com/user-attachments/assets/fcda8316-4f88-4f2c-84a2-d0bfb06432cb" />
+
+
 ***client output***
+
+
 <img width="665" height="261" alt="image" src="https://github.com/user-attachments/assets/1d61e109-c17f-47e3-b4c9-82b6eae28096" />
 
 
